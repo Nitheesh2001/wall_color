@@ -1,0 +1,11 @@
+huggingface_hub>=0.14.1
+diffusers[torch]>=0.34.0
+transformers>=4.41.0
+segment-anything>=0.1.0
+torch>=2.2.0
+accelerate>=0.29.3
+opencv-python
+Pillow
+tqdm
+python-dotenv
+numpy
